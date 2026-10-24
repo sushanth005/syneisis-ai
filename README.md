@@ -1,16 +1,5 @@
 # AI Legal Document Simplifier & Risk Analyzer
 
-**Team-2 | CSE-Q | 3rd B.Tech, 1st Semester**
-
-| Name | Roll No |
-|------|---------|
-| Bandari Sushanth | 24EG105Q31 |
-| Vooturi Sanvika | 24EG105Q61 |
-| Rampogu Dharani | 24EG105Q54 |
-| Challakonda Rohith Reddy | 24EG105Q34 |
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
